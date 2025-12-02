@@ -1,7 +1,7 @@
 #TODO generate requirements.txt
 .venv
 # bdd 100k test subset (10k images)
-sem_seg
+bdd100k_seg_maps
 10k
 
 __pycache__
